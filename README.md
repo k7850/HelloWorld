@@ -19,3 +19,7 @@
 - git add .
 - git commit -m "변경내용적고"
 - git push origin master
+
+## 잘안될때 해결법
+- git remote -v
+- git remote rm origin
